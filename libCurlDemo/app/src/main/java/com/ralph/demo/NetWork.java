@@ -1,14 +1,5 @@
 package com.ralph.demo;
 
-/**
- * Description :
- * Created by zhuxinhong on 2018/2/7.
- * Job number：135198
- * Phone ：13520295328
- * Email：zhuxinhong@syswin.com
- * Person in charge : zhuxinhong
- * Leader：zhuxinhong
- */
 public class NetWork {
 
     static {

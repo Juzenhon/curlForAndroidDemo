@@ -1,0 +1,5 @@
+libCurlDemo/.idea/*
+libCurlDemo/app/.externalNativeBuild/*
+libCurlDemo/.gradle/*
+libCurlDemo/gradle/*
+libCurlDemo/build/*

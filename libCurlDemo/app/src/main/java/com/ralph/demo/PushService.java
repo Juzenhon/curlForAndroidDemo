@@ -5,15 +5,7 @@ import android.content.Intent;
 import android.os.IBinder;
 import android.util.Log;
 
-/**
- * Description :
- * Created by zhuxinhong on 2018/3/15.
- * Job number：135198
- * Phone ：13520295328
- * Email：zhuxinhong@syswin.com
- * Person in charge : zhuxinhong
- * Leader：zhuxinhong
- */
+
 public class PushService extends Service {
 
     @Override
